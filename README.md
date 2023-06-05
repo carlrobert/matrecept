@@ -4,4 +4,4 @@
 
 ___
 
-Materialet överflyttat [vår gamla blogg](https://storlind.blogspot.com/2009/07/pizzasallad.html)
+Materialet överflyttat från [vår gamla blogg](https://storlind.blogspot.com/2009/07/pizzasallad.html)
