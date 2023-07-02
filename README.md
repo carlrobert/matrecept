@@ -1,11 +1,16 @@
 # Våra favoritrecept på svenska
 
+## Bröd
+[Haralds rågbröd &ndash; morfarsbröd](recept/Haralds-rågbröd.md)
+
+## Varmt
+[Haralds köttmoja](recept/Haralds-köttmoja.md)
+
 ## Tillbehör
 [Pizzasallad](recept/pizzasallad.md)
 
-## Drycker
+## Dryck
 [Flädersaft](recept/flädersaft.md)
-
 
 ___
 
