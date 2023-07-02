@@ -3,14 +3,14 @@
 6 portioner. Tillagningstid 1 timme
 
 ## Ingredienser
-½ kg färs
-2 lökar
-vatten
-½ burk tomatpuré
-1&ndash;2 vitlöksklyftor
-2 tsk paprika
-2 msk basilika
-kajennpeppar
+½ kg ekologisk bland- eller nötfärs<br>
+2 lökar<br>
+vatten<br>
+½ burk tomatpuré<br>
+1&ndash;2 vitlöksklyftor<br>
+2 tsk paprika<br>
+2 msk basilika<br>
+cayennepeppar
 
 ## Gör så här
 1. Hacka löken och fräs med färsen.
@@ -19,4 +19,4 @@ kajennpeppar
 4. Låt mojan småputtra en timme.
 5. Smaka av och servera.
 
-*Vi brukar dubbla satsen och då med ½ kg färs + ½ kg riven morot*
+*Vi brukar dubbla satsen och utgå från ½ kg färs + ½ kg riven morot*
