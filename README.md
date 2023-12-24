@@ -1,4 +1,4 @@
-§# Våra favoritrecept på svenska
+# Våra favoritrecept på svenska
 
 ## Bak
 [Haralds rågbröd &ndash; morfarsbröd](recept/Haralds-rågbröd.md)
