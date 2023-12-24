@@ -4,6 +4,8 @@
 [Haralds rågbröd &ndash; morfarsbröd](recept/Haralds-rågbröd.md)
 
 ## Varmt
+[Gedigen julkorv](recept/gedigen-julkorv.md)
+<br>
 [Haralds köttmoja](recept/Haralds-köttmoja.md)
 
 ## Tillbehör
