@@ -11,9 +11,13 @@
 [Gedigen julkorv](recept/gedigen-julkorv.md)
 <br>
 [Haralds köttmoja](recept/Haralds-köttmoja.md)
+<br>
+[Káposztás tészta &ndash; ungerska pastarutor med vitkål](recept/káposztás-tészta.md)
 
 ## Tillbehör
 [Pizzasallad](recept/pizzasallad.md)
+<br>
+[Rödkål](recept/rödkål.md)
 
 ## Dryck
 [Flädersaft](recept/flädersaft.md)
