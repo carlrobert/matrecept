@@ -1,7 +1,11 @@
-# Våra favoritrecept på svenska
+§# Våra favoritrecept på svenska
 
-## Bröd
+## Bak
 [Haralds rågbröd &ndash; morfarsbröd](recept/Haralds-rågbröd.md)
+<br>
+[Majs herdinnor](recept/Majs-herdinnor.md)
+<br>
+[Marsipan](recept/marsipan.md)
 
 ## Varmt
 [Gedigen julkorv](recept/gedigen-julkorv.md)
