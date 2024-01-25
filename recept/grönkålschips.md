@@ -1,5 +1,5 @@
 # Grönkålschips
-Sätt ugnen på 175 grader. Varmluft kan fungera men ökar risken för vidbränning 
+Sätt ugnen på 175 grader. Varmluft fungerar och kan vara fördelaktigt om du vaktar ugnen efter första plåtvändningen.
 
 ## Ingredienser
 Långpanna, gärna med bakplåtsduk
