@@ -17,7 +17,7 @@
 [Káposztás tészta &ndash; ungerska pastarutor med vitkål](recept/káposztás-tészta.md)
 
 ## Tillbehör
-[Grönkålschips](recept/grönkålships.md)
+[Grönkålschips](recept/grönkålschips.md)
 <br>
 [Pizzasallad](recept/pizzasallad.md)
 <br>
