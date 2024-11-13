@@ -1,4 +1,4 @@
-# Våra favoritrecept på svenska har flyttat
+# ⛔️ GAMMAL SIDA! Våra favoritrecept på svenska har flyttat
 
 Allt från den gamla bloggen finns nu här: [carlrobert.github.io/matrecept.html](https://carlrobert.github.io/matrecept.html)
 
