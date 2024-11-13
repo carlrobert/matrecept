@@ -1,4 +1,15 @@
-# Våra favoritrecept på svenska
+# Våra favoritrecept på svenska har flyttat
+
+Allt från den gamla bloggen finns nu här: [carlrobert.github.io/matrecept.html](https://carlrobert.github.io/matrecept.html)
+
+Den nya sidan är mobilvänlig och lätt sökbar. Ses där!
+
+
+---
+
+*Den här sidan kommer inte att uppdateras längre.*
+
+[Gamla bloggen finns här](https://storlind.blogspot.com/2009/07/pizzasallad.html)
 
 ## Bak
 [Haralds rågbröd &ndash; morfarsbröd](recept/Haralds-rågbröd.md)
@@ -28,4 +39,3 @@
 
 ___
 
-Överflyttning pågår från [vår gamla blogg](https://storlind.blogspot.com/2009/07/pizzasallad.html)
