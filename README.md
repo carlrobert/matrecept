@@ -2,7 +2,7 @@
 
 Allt från den här sidan och den gamla bloggen finns nu här: [carlrobert.github.io/matrecept.html](https://carlrobert.github.io/matrecept.html)
 
-Den nya sidan är mobilvänlig och lätt sökbar. Ses där!
+Den nya sidan är mobilvänlig och lätt sökbar. Ses där!  😻 
 
 
 ---
